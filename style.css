@@ -129,3 +129,8 @@ body{
     padding: 1rem;
     width: 97%;
 }
+
+a{
+    text-decoration: underline;
+    color: white;
+}
